@@ -113,15 +113,16 @@ This classifier was developed alongside field hydrogeochemical sampling in the H
 ## Author
 
 **Banani Jana**  
-M.Sc. Applied Geology (2nd Year)  
-Presidency University, Kolkata  
-Email: bananijana2002@gmail.com
+ORCID: https://orcid.org/0009-0007-0146-4535
 
 ---
 
-## Related Repository
+## Citation
+If you use this methodology or implementation logic in academic or technical work,
+please cite this repository.
 
-- `hydrogeochemistry-analysis-python` — EDA and statistical visualisation of the same dataset
+
+DOI:
 
 ---
 

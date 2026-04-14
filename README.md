@@ -122,7 +122,7 @@ If you use this methodology or implementation logic in academic or technical wor
 please cite this repository.
 
 
-DOI:
+DOI: https://doi.org/10.5281/zenodo.19564434
 
 ---
 
